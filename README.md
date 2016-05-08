@@ -10,5 +10,6 @@ Inlcudes jquery, remodal, bourbon, neat, sass-mediaqueries
 - cd to directory
 - composer install
 - npm install
-- npm run app
-> runs webpack and symfony dev server
+- npm start*
+> * runs webpack and symfony dev server
+>   visit localhost:8000
