@@ -1,10 +1,15 @@
 
 html {
-  font-family: 'Open Sans';
+  font-family: 'Source Sans Pro';
   font-size: 15px;
-  background-color: beige;
 }
 
 body {
   background-color: white;
+}
+
+
+main {
+  max-width: 640px;
+  margin: 4rem auto;
 }

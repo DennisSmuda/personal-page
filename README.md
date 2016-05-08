@@ -9,5 +9,6 @@ Inlcudes jquery, remodal, bourbon, neat, sass-mediaqueries
 - clone this repo
 - cd to directory
 - composer install
+- npm install
 - npm run app
 > runs webpack and symfony dev server
